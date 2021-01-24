@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarProfitable</string>
+    <string-array name="choice_items_brand">
+    <item>Alfa Romeo</item>
+    <item>Volkswagen</item>
+    <item>Peugeot</item>
+</string-array>
+    <string-array name="alfa">
+    <item>159</item>
+    <item>Mito</item>
+    <item>Giulietta</item>
+</string-array>
+</resources>
